@@ -1,4 +1,5 @@
 # 📄 AI PDF Chatbot — RAG with Endee Vector DB
+#To see the project ru this: https://ai-pdf-chatbot-ij8vjvqxyiza9jwchtvzjk.streamlit.app/
 
 A beginner-friendly Python web application that lets you **upload any PDF and chat with it** using Retrieval-Augmented Generation (RAG).  
 The app uses **OpenAI** for embeddings and chat, and **Endee** as the vector database for blazing-fast semantic search.
